@@ -294,16 +294,6 @@ nav
     border-radius: 10px;
 }
 
-fieldset
-{
-    border-radius: 10px;
-}
-
-.sidebar-icon button
-{
-    margin-top: 20px;
-}
-
 @media (max-width:763px) 
 {
     .lsidebar, .rsidebar
